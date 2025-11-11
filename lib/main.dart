@@ -72,7 +72,7 @@ class FlutterBankApp extends StatelessWidget {
         ),
         
         // Card theme - for account and transaction cards
-        cardTheme: const CardThemeData(
+        cardTheme: CardThemeData(
           elevation: 4,
         ),
         
