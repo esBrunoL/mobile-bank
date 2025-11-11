@@ -71,11 +71,6 @@ class FlutterBankApp extends StatelessWidget {
           ),
         ),
         
-        // Card theme - for account and transaction cards
-        cardTheme: CardThemeData(
-          elevation: 4,
-        ),
-        
         // Elevated button theme - for primary action buttons
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
